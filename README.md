@@ -1,4 +1,4 @@
-# Hey there! 👋
+# Hey there! 
 
 I'm **Dave Mashigo**, a self-taught Next.js developer based in Pretoria, South Africa.
 
